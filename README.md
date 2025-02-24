@@ -1,2 +1,2 @@
 # odin-recipes
-For educational purposes.
+This will demonstrate my knowledge from The Odin Project's teachings on how to properly setup an HTML site with links, lists, using strong and em, images amd really everything I can retain without going to a reference unless completely stuck. Woot!
